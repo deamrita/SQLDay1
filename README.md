@@ -1,2 +1,2 @@
 # SQLDay1
-Basic SQL statement, joins and pivot function
+Basic SQL statements, joins and pivot function
